@@ -1,5 +1,9 @@
 <h1> Text Recognition App </h1>
 
+<p>Unleash the power of text within images like never before with [Your App Name], the ultimate Image Text Analyzer and Copy Tool! Say goodbye to manual typing and tedious data entry—our advanced AI-driven technology transforms any photo into editable and copyable text with just a tap. Whether it's a snapshot from your camera or an image from your gallery, our app makes digitizing text a breeze! </p>
+
+<a href="https://play.google.com/store/apps/details?id=com.ibrahimcanerdogan.textrecognitionapp"><img width="90" height="90" src="https://img.icons8.com/?size=512&id=L1ws9zn2uD01&format=png"/></a>
+
 <p> The ML Kit Text Recognition API can recognize text in any Latin-based character set. It can also be used to automate data-entry tasks such as processing credit cards, receipts, and business cards. </p>
 
 <h2> Key capabilities </h2>
