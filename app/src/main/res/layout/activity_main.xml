@@ -30,7 +30,7 @@
             android:scrollbars="vertical"
             android:textColor="@color/black"
             android:textSize="17sp"
-            android:text="Merhaba!"/>
+            android:text="Hello!"/>
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/buttonShowImage"
