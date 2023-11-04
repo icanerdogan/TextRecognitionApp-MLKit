@@ -4,6 +4,8 @@
 
 <a href="https://play.google.com/store/apps/details?id=com.ibrahimcanerdogan.textrecognitionapp"><img width="90" height="90" src="https://img.icons8.com/?size=512&id=L1ws9zn2uD01&format=png"/></a>
 
+<h4><a href="https://medium.com/@ibrahimcanerdogan/text-recognition-app-with-mlkit-android-7d0b29f522cd" target="_blank"> MEDIUM </a></h4>
+
 <p> The ML Kit Text Recognition API can recognize text in any Latin-based character set. It can also be used to automate data-entry tasks such as processing credit cards, receipts, and business cards. </p>
 
 <h2> Key capabilities </h2>
